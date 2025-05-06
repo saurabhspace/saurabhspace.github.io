@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Saurabh's Space</title><link>https://saurabhspace.github.io/tags/</link><description>Recent content in Tags on Saurabh's Space</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>srbsharma8@gmail.com (Saurabh Sharma)</managingEditor><webMaster>srbsharma8@gmail.com (Saurabh Sharma)</webMaster><copyright>© 2025 Saurabh Sharma</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saurabhspace.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>T2</title><link>https://saurabhspace.github.io/tags/t2/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><author>srbsharma8@gmail.com (Saurabh Sharma)</author><guid>https://saurabhspace.github.io/tags/t2/</guid><description/></item><item><title>Tb</title><link>https://saurabhspace.github.io/tags/tb/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><author>srbsharma8@gmail.com (Saurabh Sharma)</author><guid>https://saurabhspace.github.io/tags/tb/</guid><description/></item><item><title>Ty</title><link>https://saurabhspace.github.io/tags/ty/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><author>srbsharma8@gmail.com (Saurabh Sharma)</author><guid>https://saurabhspace.github.io/tags/ty/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Saurabh&#39;s Space</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Saurabh&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>srbsharma8@gmail.com (Saurabh Sharma)</managingEditor>
+    <webMaster>srbsharma8@gmail.com (Saurabh Sharma)</webMaster>
+    <copyright>© 2025 Saurabh Sharma</copyright>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>T2</title>
+      <link>http://localhost:1313/tags/t2/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <author>srbsharma8@gmail.com (Saurabh Sharma)</author>
+      <guid>http://localhost:1313/tags/t2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tb</title>
+      <link>http://localhost:1313/tags/tb/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <author>srbsharma8@gmail.com (Saurabh Sharma)</author>
+      <guid>http://localhost:1313/tags/tb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ty</title>
+      <link>http://localhost:1313/tags/ty/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <author>srbsharma8@gmail.com (Saurabh Sharma)</author>
+      <guid>http://localhost:1313/tags/ty/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
